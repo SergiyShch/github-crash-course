@@ -1,3 +1,3 @@
-#github-crash-course
+# Important Instructions
 
 Demo repo
