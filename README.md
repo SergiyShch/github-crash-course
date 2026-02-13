@@ -1,3 +1,0 @@
-# Important Instructions
-
-Demo repo
